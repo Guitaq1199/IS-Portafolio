@@ -1,4 +1,5 @@
 # Bloque 1
+
 ## Red Semántica
 
 ![image](https://user-images.githubusercontent.com/37462034/141702616-ac4e8aaf-adc9-41bc-b022-cdcc48e984bb.png)
