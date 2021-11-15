@@ -1,7 +1,7 @@
 #Bloque 2
 ## Red semántica
 ## Artefacto
-Proyecto 1: IRat 3
+IRat 3
 
 ## ¿Por qué se elegió el artefacto?
 
