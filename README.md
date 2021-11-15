@@ -1,6 +1,6 @@
 # IS-Portafolio
 
-Marcelo Guillermo Rosales Taque
+Marcelo Guillermo Rosales Taque - 
 Carné: 1140518
 
 # Introducción
