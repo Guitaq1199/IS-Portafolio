@@ -2,6 +2,8 @@
 
 ## Red semántica
 
+![DiagramaBloque5](https://user-images.githubusercontent.com/37462034/141708344-cd439098-7794-4258-9411-3da5a9328501.png)
+
 ## Artefacto
 
 Caso ACS
