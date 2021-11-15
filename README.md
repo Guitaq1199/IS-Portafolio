@@ -1,4 +1,10 @@
 # IS-Portafolio
+
+Marcelo Guillermo Rosales Taque
+Carné: 1140518
+
+# Introducción
+
 Portafolio con los artefactos realizados durante el curso, el portafolio cuenta con los cinco bloque que se manejaron durante el curso
 
 ## Bloque 1: Introducción a la ingeniería de software
