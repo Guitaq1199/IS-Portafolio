@@ -1,5 +1,8 @@
-#Bloque 2
+# Bloque 3
+
 ## Red semántica
+
+![DiagramaBloque3](https://user-images.githubusercontent.com/37462034/141706543-c154b65d-35e3-44c9-a844-4fca17fd6fcb.png)
 
 ## Artefacto
 Informe de pruebas de la construcción del vehículo
