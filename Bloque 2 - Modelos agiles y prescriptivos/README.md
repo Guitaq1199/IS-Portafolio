@@ -1,5 +1,8 @@
 #Bloque 2
 ## Red semántica
+
+![DiagramaBloque2](https://user-images.githubusercontent.com/37462034/141705968-538d092d-99e4-4b0a-93ac-54740a1aeb14.png)
+
 ## Artefacto
 IRat 3
 
