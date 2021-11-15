@@ -1,5 +1,7 @@
-#Bloque 4
+# Bloque 4
 ## Red semántica
+
+![DiagramaBloque4](https://user-images.githubusercontent.com/37462034/141707154-412e2a81-9a65-4927-ac4b-c7fe536340f4.png)
 
 ## Artefacto
 
